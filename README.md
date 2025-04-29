@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.jpg" width="100%" alt="Banner Image" />
+  <img src="https://your-image-link.jpg" width="100%" alt="git" />
 </p>
 
 <h2 align="center">
