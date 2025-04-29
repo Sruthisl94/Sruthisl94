@@ -33,7 +33,7 @@ With a strong foundation in analytical thinking and problem-solving, I thrive in
 
 **Data Analysis & Visualization:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-9E4F96?style=flat&logo=seaborn&logoColor=white)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-E97627?style=flat&logo=tableau&logoColor=white)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
