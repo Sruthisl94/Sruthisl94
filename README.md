@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://git.jpg" width="100%" alt="Banner image" />
+  <img src="https://git.png" width="100%" alt="Banner Image" />
 </p>
+
 
 <h2 align="center">
   👩‍💻 Hi, I'm Sruthi!
