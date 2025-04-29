@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://git.png" width="100%" alt="Banner Image" />
+  <img src="https://github.com/Sruthisl94/Sruthisl94/blob/main/path/to/git.png?raw=true" width="100%" alt="Banner Image" />
 </p>
+
+
 
 
 <h2 align="center">
