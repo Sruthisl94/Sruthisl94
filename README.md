@@ -7,5 +7,5 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;Passionate+in+solving+complex+problems%2C+Physics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7B+Machine+Learning+Enthusiast;Passionate+in+solving+complex+problems%2C+Physics" alt="Typing SVG" />
 </p>
