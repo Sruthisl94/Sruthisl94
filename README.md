@@ -55,7 +55,7 @@ With a strong foundation in analytical thinking and problem-solving, I thrive in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sruthisl94&theme=react-dark&hide_border=true" alt="Sruthi's GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sruthisl94&theme=react-dark&hide_border=true" alt="Sruthi's GitHub activity graph" />
 </p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sruthidev.Sruthisl94" alt="visitor badge"/>
 </p>
