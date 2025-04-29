@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Sruthisl94/Sruthisl94/blob/main/path/to/git.png](https://github.com/Sruthisl94/Sruthisl94/blob/main/git.png)?raw=true" width="100%" alt="Banner Image" />
+  <img src="https://github.com/Sruthisl94/Sruthisl94/blob/main/path/to/git.png?raw=true" width="100%" alt="Banner Image" />
 </p>
 
 
