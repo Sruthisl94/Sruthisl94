@@ -18,11 +18,50 @@ With a strong foundation in analytical thinking and problem-solving, I thrive in
 
 🧠 Areas of interest: AI for healthcare, predictive analytics, and data-driven innovation
 
+
 🎯 Goal: To contribute to impactful projects in data science and ML in an international tech environment
 
 🧩 Fun fact: I enjoy tackling data problems as if solving a complex puzzle, seeking clarity in chaos.
 
+### 🛠️ My Tech Stack
 
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=MySQL&logoColor=white)
+
+- **Machine Learning**:  
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
+  ![XGBoost](https://img.shields.io/badge/XGBoost-00D6A1?style=flat&logo=xgboost&logoColor=white)
+
+- **Data Analysis & Visualization**:  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)  
+  ![Seaborn](https://img.shields.io/badge/Seaborn-9E4F96?style=flat&logo=seaborn&logoColor=white)  
+  ![Plotly](https://img.shields.io/badge/Plotly-0074B8?style=flat&logo=plotly&logoColor=white)
+
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+- **Big Data Tools**:  
+  ![Hadoop](https://img.shields.io/badge/Hadoop-66CC33?style=flat&logo=apachehadoop&logoColor=white)  
+  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F44336?style=flat&logo=apache-spark&logoColor=white)
+
+- **Cloud Platforms**:  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+- **Version Control**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+- **Other Tools**:  
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 
 <p align="center">
