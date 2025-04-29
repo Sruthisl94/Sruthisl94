@@ -51,6 +51,10 @@ With a strong foundation in analytical thinking and problem-solving, I thrive in
 
 **Other Tools:**  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+
+### 📊 GitHub Stats
+
+![Sruthi's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=react-dark&hide_border=true)
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sruthidev.Sruthisl94" alt="visitor badge"/>
 </p>
